@@ -7,3 +7,5 @@ PyMuPDF
 tiktoken
 google-genai
 streamlit
+load_dotenv
+
